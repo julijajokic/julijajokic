@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi, I'm Julija Jokic 👋
+Graduate Engineer of Organizational Sciences 
+My academic background is in Information Systems and Technologies,
+with an interest in artificial intelligence and emerging technologies.
+Through academic and personal projects, I have gained practical experience
+in developing application, database management, web technologies and more.
 
-<!--
-**julijajokic/julijajokic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Areas of Interest
 
-Here are some ideas to get you started:
+Artificial Intelligence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Web Application Development
+
+Database Systems
+
+Information Systems
+
+📫 Connect with Me
+
+LinkedIn: [linkedin.com/in/julija-jokic/]
