@@ -1,22 +1,10 @@
-Hi, I'm Julija Jokic 👋
 
-Graduate Engineer of Organizational Sciences 
+# Hi, I'm Julija Jokic 👋
 
-My academic background is in Information Systems and Technologies,
-with an interest in artificial intelligence and emerging technologies.
-Through academic and personal projects, I have gained practical experience
-in developing application, database management, web technologies and more.
+### Graduate Engineer of Organizational Sciences
 
-🎯 Areas of Interest
+My academic background is in Information Systems and Technologies,<br>
+with an interest in artificial intelligence and emerging technologies.<br>
+Through academic and personal projects, I have gained practical experience<br>
+in application development, database management, web technologies and more.
 
-Artificial Intelligence
-
-Web Application Development
-
-Database Systems
-
-Information Systems
-
-📫 Connect with Me
-
-LinkedIn: [linkedin.com/in/julija-jokic/]
